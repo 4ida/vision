@@ -1,0 +1,19 @@
+Ig It be nice if power banks revealed battery status, health etc by pluggin in to PC.
+Probably would allow to be used like UPS
+(can charge and use at same time, when 100% charged most power goes to device), 
+easier for DIY Laptop, can integrate with system etc, it's cheaper and universal
+
+
+even if not powerbanks, a simple board to connect some battery
+which provides two cables (charging and data) probably would be less costly
+than whatever pijuice is offering
+
+while on topic, how's idea of multi-source power?
+pi would know which power it's using
+id1 id2 id3 etc, up to programmer (script on pi user can edit, decide on automated tasks) 
+to change source on demand and what to do with it
+
+e.g. power from grid went out, autoswitch to battery.
+battery status / health bad, use backup battery or even other connection to grid/power outlet.
+
+when retured to home owner can press button to change back to default-preffered one

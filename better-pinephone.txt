@@ -1,0 +1,30 @@
+My take on Pinephone. Doesn't need to be slim, 
+If it can do blender, video and image editing without fuss (for more basic scenes), 
+is already the super phone in my eyes
+GPU is somewhere near but still far from GeForce 920m / whatever Poco F1 has? 
+(can run gta vice city - re3 native port without fuss)
+Capable of VM maybe?
+Ideally speaker is on bottom (like Poco F1), dual sim, 
+uses nano sim 
+(
+if still micro then why not swap with sdcard, 
+like sd card on bottom and sim on top bc better grip
+sdcard is one single part and being at bottom plus already has sharp turn
+it being at the top doesn't make sense
+)
+
+I'd personally like to see keyboard case + fingerprint + NFC/RFID reader-writer all in one package... 
+Then again as phrase goes "too many features all in one go creates a monster"
+Still would be cool to have ig.
+I wonder what else you could achieve with pogo pins...
+
+
+
+
+also more phones should have boot from sdcard / usb.
+system update broke something? swipe down sdcard  you already have with backup install
+and you still can live. decrypt files on internal storage, use jumpdrive to make a backup
+
+twrp feels more risque. other phones may need EDL mode, for which access to may be exclusive to
+particular authorized repair centers, just to unbrick device. 
+On top of that usually needs bootloader unlocking.

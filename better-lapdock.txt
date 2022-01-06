@@ -1,0 +1,16 @@
+Ideally lapdock should have a slot for modules.
+something like "Raspberry Pi Compute Module 3+", "SOPINE A64" and others 
+ususally used in clusterboards.
+
+As well as hopefully maybe one day you'll be able to use lapdock wirelessly. 
+Even by today limitation of Wifi Miracast (video) + Bluetooth (keyboard, touchpad)
+can kinda do the trick at cost of needing to use mobile data, no usb ports and touchscreen.
+
+Maybe a tiny VNC application could be baked into lapdock firmware, but may increase costs 
+(needs wifi or ethernet port)
+
+
+For my needs, i'd just need atleast one USB port (type a or type-c with data to use adapters)
+Having microsd, ethernet would be nice. 
+Touchscreen may seem not to be used or needed much but is helpful (especially for waydroid use case)
+(plus touchpad or mouse movements back and forth can be repetitive for batch tasks)
