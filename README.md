@@ -1,0 +1,2 @@
+# vision
+Thoughts and concepts
